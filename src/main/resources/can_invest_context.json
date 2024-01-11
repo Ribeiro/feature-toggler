@@ -1,0 +1,9 @@
+{
+    "name": "can_invest_context",
+    "type": "context",
+    "condition": {
+        "field": "account",
+        "value": ["1234","5678"],
+        "operation": "in"
+    }
+}
